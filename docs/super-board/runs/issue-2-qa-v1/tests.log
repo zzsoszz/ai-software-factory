@@ -1,0 +1,13 @@
+test_codex_without_auto_opt_in_waits_for_human (test_factory.FactoryPolicyTests) ... ok
+test_empty_or_unusable_checks_stop_dispatch (test_factory.FactoryPolicyTests) ... ok
+test_explicit_auto_allows_a_normal_change (test_factory.FactoryPolicyTests) ... ok
+test_invalid_factory_config_reports_failure_without_traceback (test_factory.FactoryPolicyTests) ... ok
+test_live_migration_never_runs_with_no_allowed_environments (test_factory.FactoryPolicyTests) ... ok
+test_normal_change_waits_for_human_under_initial_policy (test_factory.FactoryPolicyTests) ... ok
+test_real_project_check_command_is_accepted (test_factory.FactoryPolicyTests) ... ok
+test_sensitive_changes_still_need_a_human_under_auto (test_factory.FactoryPolicyTests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.456s
+
+OK
