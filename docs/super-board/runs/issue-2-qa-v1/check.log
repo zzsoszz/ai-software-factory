@@ -1,0 +1,3 @@
+AC1 PASS: valid YAML frontmatter, nonempty name/about/title, feature label
+AC2 PASS: standard sections, checkbox criteria, independent verification, None dependency
+AC3 PASS: request URL, board URL, submission instructions and local Markdown links
